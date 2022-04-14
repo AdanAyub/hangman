@@ -1,0 +1,1 @@
+gmessage = ["good job you did it","you got lucky this time","well done that was amazing","wow you are good at this"]

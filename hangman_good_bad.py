@@ -1,0 +1,2 @@
+bmessage = ["wow you suck", "guess again", "you are terrible", "better luck next time", "my grandma can do better than that"]
+gmessage = ["good job you did it", "you got lucky this time", "well done that was amazing", "wow you are good at this"]

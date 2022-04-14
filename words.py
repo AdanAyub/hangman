@@ -1,0 +1,1 @@
+words = ["cool", "awesome", "amazing", "smart", "Supercalifragilisticexpialidocious", "computer", "relaxed", "depressed", "sadly", "terrific", "fish", "smartphone", "paper", "animal", "amused", "talking", "loving", "Kwantlen", "Rai", "Zimmerman"]
